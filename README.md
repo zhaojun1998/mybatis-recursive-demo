@@ -83,7 +83,7 @@ resultMap 定义:
 
 查询出的结果集:
 
-```
+```json
 [
     {
         "menuId": 1,
